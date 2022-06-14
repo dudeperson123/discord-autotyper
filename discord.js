@@ -3,12 +3,12 @@ const {types} = require("./utils/types");
 
 // list all the words here, will pick them randomly, doesn't matter how many!
 const words = [
-    "hey",
-    "hello",
-    "test",
-    "sell",
-    "jay",
-    "javascript",
+    "pls hunt",
+    "pls fish",
+    "pls dig",
+    "pls beg",
+    "pls bal",
+    "wow",
 ]
 let logCount = 0;
 
